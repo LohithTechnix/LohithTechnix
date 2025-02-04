@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @LohithTechnix
-- 👀 I’m interested in ... Python programming
-- 🌱 I’m currently learning ... Python programming language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Full stack web development
+- 🌱 I’m currently learning ... Front end web development & SQL
 
 <!--
 LohithTechnix/LohithTechnix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
